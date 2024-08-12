@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JayCircuit",
+    "protocol": "groth16",
+    "circuit": "JayCircuit/circuit.circom",
+    "input": "JayCircuit/input.json",
+    "wasm": "JayCircuit/out/circuit.wasm",
+    "zkey": "JayCircuit/out/JayCircuit.zkey",
+    "vkey": "JayCircuit/out/JayCircuit.vkey",
+    "r1cs": "JayCircuit/out/JayCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
